@@ -1,2 +1,3 @@
 # Computer-Vision-and-Infrared-Image-Processing
 An Infrared Image Enhancement scheme based on Multi level Discrete Wavelet Transform and Event triggered Particle Swarm Optimization.
+This research was implemented in MATLAB, using MATLAB R2016b. The developed technique was tested on a dataset obtained from Dynamic Graphics Project Laboratory database of infrared images (https://www.dgp.toronto.edu/~nmorris/data/IRData) for both subjective and objective comparison. Based on the results obtained from quantitative assessment with existing infrared image enhancement algorithms using PSNR AND Discrete Entropy as performance metrics, it can be concluded that the image details were effectively enhanced without brightness distortion. 
